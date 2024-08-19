@@ -20,7 +20,7 @@ In this project, we implement a Siamese Neural Network to solve the problem of o
 
 ## Dataset
 
-The project uses the "Labeled Faces in the Wild-a" dataset, which includes labeled pairs of facial images. The dataset is split into training and testing sets, ensuring no overlap between the two. The training set consists of 2200 pairs (1100 matching and 1100 mismatching), while the test set includes 1000 pairs (500 matching and 500 mismatching). The data was further split into training and validation sets in an 85:15 ratio to monitor the model's performance and prevent overfitting.
+The project uses the "Labeled Faces in the Wild-a" dataset, which includes labeled pairs of facial images. The dataset is split into training and testing sets, ensuring no overlap between the two. The training set consists of 2200 pairs (1100 matching and 1100 mismatching), while the test set includes 1000 pairs (500 matching and 500 mismatching). The data was further split into training and validation sets in an 85:15 ratio to monitor the model's performance and prevent overfitting. 
 
 ![image](https://github.com/user-attachments/assets/1a00786e-8a86-4bd7-a5a4-bc152da83abd)
 
