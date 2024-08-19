@@ -1,6 +1,7 @@
 # One-Shot Facial Recognition with Siamese Neural Networks
 
-![image](https://github.com/user-attachments/assets/9cf505e8-b44e-4d75-8619-b5afa4a05b18)
+![image](https://github.com/user-attachments/assets/362a804a-b61b-4e8f-8a60-42fc29375627)
+
 
 This project focuses on implementing a convolutional neural network (CNN) to perform one-shot facial recognition. Inspired by the ["Siamese Neural Networks for One-shot Image Recognition"](https://www.cs.cmu.edu/%7Ersalakhu/papers/oneshot1.pdf) paper, the goal is to develop a model capable of determining whether two facial images belong to the same person, even when the faces are previously unseen.
 
@@ -38,7 +39,8 @@ The project uses the "Labeled Faces in the Wild-a" dataset, which includes label
 
 ![image](https://github.com/user-attachments/assets/e27ff231-66eb-4b8d-bfbf-ada2032d995b)
 
-[page8-8.pdf](https://github.com/user-attachments/files/16658542/page8-8.pdf)
+![image](https://github.com/user-attachments/assets/aac720d6-bb06-4ab5-8176-cd7058a629a6) ![image](https://github.com/user-attachments/assets/3c500b56-23d5-4a3a-8eef-e0f9fdb383b8)
+
 
 The model is based on a Siamese Neural Network with the following architecture:
 
